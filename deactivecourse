@@ -1,0 +1,9 @@
+<html>
+<body>
+<head>
+<style>
+#content > main > div.home-courses > section > section > section > ul > li:nth-child(7){pointer-events: none;}
+</style>
+</head>
+</body>
+</html>
